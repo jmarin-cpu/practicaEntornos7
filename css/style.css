@@ -1,31 +1,31 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #fdf6ec;
-    text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #fdf6ec;
+  text-align: center;
 }
 
 h1 {
-    background-color: black;
-    color: black;
-    padding: 20px;
+  background-color: rgba(193, 190, 190, 0.152);
+  color: rgb(199, 98, 98);
+  padding: 20px;
 }
 
 .boton {
-    background-color: #d35400;
-    color: white;
-    padding: 10px 20px;
-    text-decoration: none;
+  background-color: #d35400;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
 }
 
 .tarjeta {
-    background-color: white;
-    width: 200px;
-    margin: 10px auto;
-    padding: 10px;
-    border-radius: 8px;
-    list-style: none;
+  background-color: white;
+  width: 200px;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 8px;
+  list-style: none;
 }
 
 .pie {
-    color: gray;
+  color: gray;
 }
